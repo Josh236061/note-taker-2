@@ -43,11 +43,7 @@ THEN I am presented with empty fields to enter a new note title and the note’s
 
 ## Screenshot(s)
 
-![image](https://user-images.githubusercontent.com/71394743/198118076-82f01af1-a866-470b-81dd-2fc3e3447a34.png)
-
-![image](https://user-images.githubusercontent.com/71394743/198120443-bcaf257e-710d-4290-b024-6bc4e5181022.png)
-
-![image](https://user-images.githubusercontent.com/71394743/198114476-2c87ea96-463d-491a-afb7-cb0d72e8bee1.png)
+![image](https://user-images.githubusercontent.com/71394743/212129218-e1642e50-c152-4379-971c-e9ad4cb6dfa4.png)
 
 
 
@@ -55,4 +51,6 @@ THEN I am presented with empty fields to enter a new note title and the note’s
 
 GitHub Repo URL: https://github.com/Josh236061/note-taker-2
 
-Published Heroku URL:
+Published Heroku URL: https://note-taker-2-jmt.herokuapp.com/
+
+Git-Heroku 'Push' ERROR MESSAGE: [remote rejected] main -> main (pre-receive hook declined)
